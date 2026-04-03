@@ -1,4 +1,4 @@
-# clickstream analytics
+# Clickstream Analytics
 
 Небольшой pet-проект, который я собирал как витринный end-to-end кейс для портфолио.
 
