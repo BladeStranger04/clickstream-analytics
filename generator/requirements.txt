@@ -1,0 +1,3 @@
+aiokafka==0.10.0
+faker==37.1.0
+ujson==5.10.0
